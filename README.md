@@ -2,9 +2,12 @@
 Python Scrypt to Generate a CSV file with the Mullvad SOCKS5 URLs
 
 The List on https://mullvad.net/en/servers is very good but sometimes not ideal.
+
 For example if you want to quickly switch IP quickly since your Freetube tells you the IP is rate limited by google.
 This list has three columms Contry, Hostname and Continent.
+
 A third Script for adding cities is in the works.
+
 I did not find such a list before and just wanted to share my work with you.
 
 # How to set up
