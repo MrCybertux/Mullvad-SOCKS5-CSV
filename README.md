@@ -53,7 +53,7 @@ Then you can sort it:
 and voila here you got a sortable list of all mullvad socks adress:
 ![image](https://github.com/user-attachments/assets/f1051453-e436-4332-af39-85db359919cf)
 
-# licence
+## Licence
 
 I do not think i need a licence for that but in case here we go:
 
